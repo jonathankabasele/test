@@ -1,0 +1,43 @@
+body{
+    
+    background-image:url(media/Space-Background.jpeg);
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    background-color: black;
+    height: 100vh;
+    color: white;
+}
+ 
+.video-containertest{
+    background-color: black;
+    width: 500px;
+    height: 200px;
+    color: white;
+    display:flex;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    margin-top: 40px;
+ }
+ footer{
+     background-color: black;
+     height: 90px;
+     width: 100%;
+     display: inline-flex;
+     flex-direction: row;
+     height: 50px;
+     justify-content: center;
+     
+ }
+
+ .btn-navpage{
+     background-color: blue;
+     height: 30px;
+ }
+ .zone-btn{
+     margin-top: 20px;
+ }
+ button{
+     margin-right: 10px;
+     margin-bottom: 10px;
+ }
